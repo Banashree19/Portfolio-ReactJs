@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Portfolio-ReactJs/static/css/main.61db8616.css",
+    "main.js": "/Portfolio-ReactJs/static/js/main.79613e76.js",
+    "static/js/787.4e6438f0.chunk.js": "/Portfolio-ReactJs/static/js/787.4e6438f0.chunk.js",
+    "static/media/testimonials-bg.jpg": "/Portfolio-ReactJs/static/media/testimonials-bg.75612be74ca26cb2eee2.jpg",
+    "static/media/me.jpg.jpeg": "/Portfolio-ReactJs/static/media/me.jpg.19d16075864643247e1e.jpeg",
+    "static/media/img.jpeg": "/Portfolio-ReactJs/static/media/img.892f2534dd04d6f0bfab.jpeg",
+    "static/media/img1.jpeg": "/Portfolio-ReactJs/static/media/img1.5f5d38c39960c39436e9.jpeg",
+    "static/media/ales-nesetril-Im7lZjxeLhg-unsplash.jpg": "/Portfolio-ReactJs/static/media/ales-nesetril-Im7lZjxeLhg-unsplash.b4c72689818a2ae32ce9.jpg",
+    "static/media/img4.jpeg": "/Portfolio-ReactJs/static/media/img4.2f56e38fcfe477944e4c.jpeg",
+    "static/media/img2.jpeg": "/Portfolio-ReactJs/static/media/img2.d6ce3c1cf5194cce9b74.jpeg",
+    "static/media/img3.jpeg": "/Portfolio-ReactJs/static/media/img3.53d342d7a4aee513ef94.jpeg",
+    "static/media/avatar-4.png": "/Portfolio-ReactJs/static/media/avatar-4.f7fb7ed7493d87bbba75.png",
+    "static/media/avatar-3.png": "/Portfolio-ReactJs/static/media/avatar-3.d6c9b46f1e2a3bbfbefa.png",
+    "static/media/avatar-1.png": "/Portfolio-ReactJs/static/media/avatar-1.9277ecea7570a7cb523d.png",
+    "static/media/avatar-2.png": "/Portfolio-ReactJs/static/media/avatar-2.75d8f23ea5e97b4d897d.png",
+    "static/media/logo.jpg": "/Portfolio-ReactJs/static/media/logo.3b80d5743d4ee071bbb4.jpg",
+    "index.html": "/Portfolio-ReactJs/index.html",
+    "main.61db8616.css.map": "/Portfolio-ReactJs/static/css/main.61db8616.css.map",
+    "main.79613e76.js.map": "/Portfolio-ReactJs/static/js/main.79613e76.js.map",
+    "787.4e6438f0.chunk.js.map": "/Portfolio-ReactJs/static/js/787.4e6438f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.61db8616.css",
+    "static/js/main.79613e76.js"
+  ]
+}
